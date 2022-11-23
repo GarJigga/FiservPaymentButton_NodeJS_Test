@@ -10,8 +10,8 @@ app.use(bodyParser.raw());
 app.set('view engine', 'ejs');
 
 router.get('/',function(req, res){
-    var storename = "6239449660018";
-    var sharedsecret = "X}k8q6z:Ji";
+    var storename = "YOUR_STORENAMEID";
+    var sharedsecret = "YOURSHAREDSECRET";
     var txntype = "sale";
     var chargetotal = "48.42";
     var currency = "484";
