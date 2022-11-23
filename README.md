@@ -9,7 +9,7 @@ I use Visual Code to prepare and run project
 - In App.js file you have the option to set the storename and sharedsecret.
 
 - Open new terminal
-- TYPE npm install (This should install prerequisitess such as crypto-js, ejs and express)
+- TYPE npm install (This should install prerequisites such as crypto-js, ejs and express)
 - TYPE node App.js "This should start the nodejs server @ http://localhost:3000/"
 - A make payment button will display in your browser
 - A success and a fail route is available to capture the callbacks from Fiserv 
