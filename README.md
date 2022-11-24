@@ -7,10 +7,11 @@ I use Visual Code to prepare and run project
 - Extract code to a folder
 - Open Visual Code
 - In App.js file you have the option to set the storename, sharedsecret and currency.
-    Test credentials:
-      - Storename:    80004160
-      - Sharedsecret: sharedsecret
-      - currency:     978
+
+Test credentials:
+- Storename:    80004160
+- Sharedsecret: sharedsecret
+- currency:     978
 
 - Open new terminal
 - TYPE npm install (This should install prerequisites such as crypto-js, ejs and express)
